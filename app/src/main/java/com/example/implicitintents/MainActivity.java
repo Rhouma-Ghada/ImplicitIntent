@@ -59,4 +59,8 @@ public class MainActivity extends AppCompatActivity {
                 .setText(txt)
                 .startChooser();
     }
+
+    public void TakePicture(View view) {
+
+    }
 }
